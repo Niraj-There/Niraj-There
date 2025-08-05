@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niraj</h1>
-<h3 align="center">A Computer Science Student, Programming Enthusiast, and an Avid;) Learner;)</h3>
+<h3 align="center">A Computer Science Student, Programming Enthusiast, and an Avid Learner;)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niraj-there&label=Profile%20views&color=0e75b6&style=flat" alt="niraj-there" /> </p>
 
