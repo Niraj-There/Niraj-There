@@ -20,7 +20,6 @@
 
 
 <p align="center">
-   <a href="https://x.com/_neerajz"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_Niraj_There_?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@neerajz"></a>
    <br> <p align="center"> <img src="https://komarev.com/ghpvc/?username=niraj-there&label=Profile%20views&color=0e75b6&style=flat" alt="niraj-there" /> </p>
  </p>
  
