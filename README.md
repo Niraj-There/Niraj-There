@@ -20,7 +20,7 @@
 
 
 <p align="center">
-   <br> <p align="center"> <img src="https://komarev.com/ghpvc/?username=niraj-there&label=Profile%20views&color=0e75b6&style=flat" alt="niraj-there" /> </p>
+   <p align="center"> <img src="https://komarev.com/ghpvc/?username=niraj-there&label=Profile%20views&color=0e75b6&style=flat" alt="niraj-there" /> </p>
  </p>
  
  <h5 align="center">
