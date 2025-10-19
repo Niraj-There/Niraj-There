@@ -6,7 +6,7 @@
 <p align='center'>
    <a href="https://www.linkedin.com/in/niraj-there/"><img height="30" src="https://raw.githubusercontent.com/Niraj-There/Niraj-There/ed213002f72af3835feb666b1916222f3eae5549/linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://x.com/_neerajz"><img height="30" src="https://raw.githubusercontent.com/Niraj-There/Niraj-There/ed213002f72af3835feb666b1916222f3eae5549/twitter.png"></a>&nbsp;&nbsp;
-<a href="https://dev.to/niraj_there"><img height="30" src="https://raw.githubusercontent.com/Niraj-There/Niraj-There/ed213002f72af3835feb666b1916222f3eae5549/devto.png"></a>&nbsp;&nbsp;
+<a href="https://medium.com/@thereniraj"><img height="30" src="https://raw.githubusercontent.com/Niraj-There/Niraj-There/refs/heads/main/medium.png"></a>&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/31p43fmzrcoi6ex2ltjiqpmxthba"><img height="30" src="https://raw.githubusercontent.com/Niraj-There/Niraj-There/ed213002f72af3835feb666b1916222f3eae5549/spotify.png"></a>&nbsp;&nbsp;
  <a href="https://www.coffee.com/Niraj"><img height="30" src="https://raw.githubusercontent.com/Niraj-There/Niraj-There/ed213002f72af3835feb666b1916222f3eae5549/coffee.jpg"></a>&nbsp;&nbsp;
  </p>
